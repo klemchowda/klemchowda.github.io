@@ -10,19 +10,20 @@ div div{
 	border:2px solid #ff6600;
 	height:50px;
 	width:120px;
-	position:absolute;
+	position:relative;
 	margin:5px 15px 5px 15px;
+	display:inline
 }
 #left{
 	float:left;
 }
 
 #l-middle{
-	float:left;
+
 }
 
 #r-middle{
-	float:left;
+
 }
 
 #right{
