@@ -2,11 +2,14 @@
 	float:right;
 	height:600;
 	width:124
+	top:50%;
+	position:relative;
 }
 
 .label{
 	text-align:center;
 	font-family:Courier New;
+	color:white
 }
 
 body{
@@ -16,9 +19,9 @@ body{
 }
 
 div div{
-	background-color:#ff8533;
+	/*background-color:#ff8533;
 	border-radius:10px;
-	border:2px solid #ff6600;
+	border:2px solid #ff6600;*/
 	height:50px;
 	width:120px;
 	position:relative;
