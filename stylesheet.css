@@ -9,6 +9,11 @@
 	font-family:Courier New;
 }
 
+body{
+	background-image: url(earth.jpg);
+	background-size:contain;
+}
+
 div div{
 	background-color:#ff8533;
 	border-radius:10px;
