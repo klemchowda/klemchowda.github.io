@@ -1,7 +1,7 @@
-.header{
-	margin:auto;
-	height:60px;
-	width:616px;
+.side_bar{
+	float:right;
+	height:600;
+	width:124
 }
 
 .label{
@@ -22,28 +22,25 @@ div div{
 	height:50px;
 	width:120px;
 	position:relative;
-	margin:5px 15px 5px 15px;
-	display:inline
+	margin:15px 5px 15px 5px;
 }
 
 a{
 	text-decoration:none;
 }
 
-#left{
-	float:left;
-}
+#left{}
 
 #l-middle{
-	float:left;
+	clear:both;
 }
 
 #r-middle{
-	float:left;
+	clear:both;
 }
 
 #right{
-	float:right;
+	clear:both;
 }
 
 #welcome{
