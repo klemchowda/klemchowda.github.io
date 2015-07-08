@@ -14,7 +14,6 @@ div div{
 }
 #left{
 	float:left;
-	<p>1</p>
 }
 
 #l-middle{
@@ -27,5 +26,4 @@ div div{
 
 #right{
 	float:right;
-	<p>2</p>
 }
