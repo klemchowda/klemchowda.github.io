@@ -1,9 +1,15 @@
 .bar{
 	margin:auto;
 	height:60px;
-	width:570px;
-	border:5px solid black
+	width:600px;
+	border:1px solid black
 }
+
+.label{
+	text-align:center;
+	font-family:Courier New;
+}
+
 div div{
 	background-color:#ff8533;
 	border-radius:5px;
@@ -14,6 +20,7 @@ div div{
 	margin:5px 15px 5px 15px;
 	display:inline
 }
+
 #left{
 	float:left;
 }
@@ -28,4 +35,10 @@ div div{
 
 #right{
 	float:right;
+}
+
+#welcome{
+	text-align:center;
+	clear:both;
+	margin-top:200px;
 }
