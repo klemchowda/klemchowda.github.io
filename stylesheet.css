@@ -1,15 +1,29 @@
 .bar{
 	margin:auto;
 	height:60px;
-	width:600px;
+	width:570px;
 }
-
-#left{
+div div{
 	background-color:#ff8533;
 	border-radius:5px;
 	border:2px solid #ff6600;
-	float:left;
 	height:50px;
 	width:120px;
 	position:absolute;
+	margin:5px 15px 5px 15px;
+}
+#left{
+	float:left;
+}
+
+#l-middle{
+	float:left;
+}
+
+#r-middle{
+	float:left;
+}
+
+#right{
+	float:right;
 }
