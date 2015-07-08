@@ -1,7 +1,7 @@
 .header{
 	margin:auto;
 	height:60px;
-	width:600px;
+	width:616px;
 }
 
 .label{
@@ -40,6 +40,6 @@ div div{
 	text-align:center;
 	clear:both;
 	margin-top:200px;
-	font-size:3em;
+	font-size:10em;
 	color:#cfffff;	
 }
