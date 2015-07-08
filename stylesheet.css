@@ -1,8 +1,7 @@
-.bar{
+.header{
 	margin:auto;
 	height:60px;
-	width:600px;
-	border:1px solid black
+	width:700px;
 }
 
 .label{
@@ -12,7 +11,7 @@
 
 div div{
 	background-color:#ff8533;
-	border-radius:5px;
+	border-radius:10px;
 	border:2px solid #ff6600;
 	height:50px;
 	width:120px;
@@ -41,4 +40,5 @@ div div{
 	text-align:center;
 	clear:both;
 	margin-top:200px;
+	font:3em #cfffff;	
 }
