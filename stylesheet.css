@@ -20,6 +20,10 @@ div div{
 	display:inline
 }
 
+a{
+	text-decoration:none;
+}
+
 #left{
 	float:left;
 }
