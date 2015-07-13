@@ -1,9 +1,9 @@
-#side_bar{
+.side_bar{
 	float:right;
 	height:600;
 	width:124;
 	top:50%;
-	position:fixed;
+	position:absolute;
 }
 
 .label{
