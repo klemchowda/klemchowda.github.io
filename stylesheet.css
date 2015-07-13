@@ -1,8 +1,8 @@
-.side_bar{
+#side_bar{
 	float:right;
 	height:600;
 	width:124;
-	top:20em;
+	top:50%;
 	position:relative;
 }
 
