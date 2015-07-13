@@ -3,7 +3,7 @@
 	height:600;
 	width:124;
 	top:50%;
-	position:relative;
+	position:fixed;
 }
 
 .label{
