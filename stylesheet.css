@@ -1,16 +1,30 @@
 .side_bar{
 	float:right;
-	height:600;
-	width:124;
-	margin-top:20em;
-	position:relative;
+	height:600px;
+	width:124px;
+	top:50%;
+	position:absolute;
+	transform:translateY(-50%);
 	z-index:1;
 }
 
 .label{
 	text-align:center;
 	font-family:Courier New;
-	color:white
+	color:white;
+}
+
+.contrast_box{
+	margin: auto;
+	height:300px;
+	width:600px;
+	color:#cfffff;
+}
+
+.body_text{
+	text-align:center;
+	font-family:Courier New;
+	color:black;
 }
 
 body{
