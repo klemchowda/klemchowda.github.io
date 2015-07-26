@@ -14,9 +14,10 @@
 }
 
 .contrast_box{
+	margin:auto;
 	height:300px;
 	width:600px;
-	color:black;
+	background-color:#cfffff;
 }
 
 .body_text{
