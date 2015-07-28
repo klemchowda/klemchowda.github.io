@@ -2,10 +2,7 @@
 	float:right;
 	height:600px;
 	width:124px;
-	top:50%;
-	position:relative;
-	transform:translateY(-50%);
-	background-color:yellow;
+	margin-top:350px;
 }
 
 .label{
@@ -19,7 +16,7 @@
 	height:150px;
 	width:600px;
 	background-color:#cfffff;
-	border-radius:5px;
+	border-radius:10px;
 }
 
 .body_text{
